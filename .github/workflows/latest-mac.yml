@@ -1,0 +1,12 @@
+version: 0.3.1
+files:
+  - url: G-Desktop-Suite-0.3.1.zip
+    sha512: 0DCqVuv8wBuKjAbJS8U/SdbFZir0Pk480n2WYu7RZyvk6yyI+l2fnXsF3kdDfGcKXcACdqbw9QOiufmmicRqmw==
+    size: 64114483
+    blockMapSize: 68798
+  - url: G-Desktop-Suite-0.3.1.dmg
+    sha512: gz6VYzMlfrytY4hAwxwHO8XLa5QxJA8fuJDZq3GPjlHs26bAGgPktVJq9BE/VRIMq3XfCVd9cIN/94h5SqW9Qw==
+    size: 66249877
+path: G-Desktop-Suite-0.3.1.zip
+sha512: 0DCqVuv8wBuKjAbJS8U/SdbFZir0Pk480n2WYu7RZyvk6yyI+l2fnXsF3kdDfGcKXcACdqbw9QOiufmmicRqmw==
+releaseDate: '2020-05-23T16:15:13.211Z'
